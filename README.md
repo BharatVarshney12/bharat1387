@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bharat Varshney</h1>
-<h3 align="center">A passionate Software QA Engineer from India</h3>
+<h3 align="center">A passionate Software QA Engineer from India. 🌏 I'm currently obsessed with finding out problems in every product I come across. ️I am actively seeking opportunities to leverage my skills and make a significant impact that contributes to an organization's success.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharat1387&label=Profile%20views&color=0e75b6&style=flat" alt="bharat1387" /> </p>
 
@@ -10,6 +10,8 @@
 - 🔭 I’m currently working on **Moda**
 
 - 🌱 I’m currently learning **playwright**
+
+- 👯 I’m looking to collaborate on **open project**
 
 - 🤝 I’m looking for help with **GCP**
 
@@ -25,7 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dev.to/bharat1387" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to/bharat1387" height="30" width="40" /></a>
+<a href="https://dev.to//bharat1387" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="/bharat1387" height="30" width="40" /></a>
 <a href="https://twitter.com/bharat_varshney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bharat_varshney" height="30" width="40" /></a>
 <a href="https://linkedin.com/in//bharatvarshney/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/bharatvarshney/" height="30" width="40" /></a>
 <a href="https://medium.com/@bharatvarshney567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bharatvarshney567" height="30" width="40" /></a>
