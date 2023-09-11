@@ -27,7 +27,7 @@
 <p align="left">
 <a href="https://dev.to/dev.to/bharat1387" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to/bharat1387" height="30" width="40" /></a>
 <a href="https://twitter.com/bharat_varshney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bharat_varshney" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bharatvarshney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharatvarshney" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/bharatvarshney/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bharatvarshney/" height="30" width="40" /></a>
 <a href="https://medium.com/@bharatvarshney567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bharatvarshney567" height="30" width="40" /></a>
 </p>
 
