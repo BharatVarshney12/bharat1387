@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bharat Varshney</h1>
 <h3 align="center">A passionate Software QA Engineer from India. 🌏 I'm currently obsessed with finding out problems in every product I come across. ️I am actively seeking opportunities to leverage my skills and make a significant impact that contributes to an organization's success.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BharatVarshney12&label=Profile%20views&color=0e75b6&style=flat" alt="bharat1387" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BharatVarshney12&label=Profile%20views&color=0e75b6&style=flat" alt="BharatVarshney12" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharat1387" alt="bharat1387" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BharatVarshney12" alt="BharatVarshney12" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/bharat_varshney" target="blank"><img src="https://img.shields.io/twitter/follow/bharat_varshney?logo=twitter&style=for-the-badge" alt="bharat_varshney" /></a> </p>
 
