@@ -27,7 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to//bharat1387" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="/bharat1387" height="30" width="40" /></a>
+<a href="https://dev.to//bharat1387" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="/BharatVarshney12" height="30" width="40" /></a>
 <a href="https://twitter.com/bharat_varshney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bharat_varshney" height="30" width="40" /></a>
 <a href="https://linkedin.com/in//bharatvarshney/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/bharatvarshney/" height="30" width="40" /></a>
 <a href="https://medium.com/@bharatvarshney567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bharatvarshney567" height="30" width="40" /></a>
@@ -39,8 +39,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/bharat varshney"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bharat varshney" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bharat1387&show_icons=true&locale=en&layout=compact" alt="bharat1387" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BharatVarshney12&show_icons=true&locale=en&layout=compact" alt="BharatVarshney12" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bharat1387&show_icons=true&locale=en" alt="bharat1387" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BharatVarshney12&show_icons=true&locale=en" alt="BharatVarshney12" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bharat1387&" alt="bharat1387" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BharatVarshney12&" alt="BharatVarshney12" /></p>
